@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @artemlira
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ..JavaScript, HTML, CSS, React
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
-- 
 
 <!---
 artemlira/artemlira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
