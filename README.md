@@ -29,7 +29,7 @@ The owner can manage projects, skills, facts, contacts, and social links through
 
 A Ukrainian and English Next.js application for finding waters, planning fishing trips, saving private places, sharing trip reports, and interacting with a community. Includes maps, weather, Firebase authentication and data, moderation tools, and automated GitHub Actions checks.
 
-[Repository and setup](https://github.com/artemlira/bitemap)
+The repository is private while the project is in development; source details are available on request.
 
 ### WordPress and client websites
 
@@ -53,4 +53,3 @@ I also build multilingual WordPress sites and responsive marketing pages, includ
 ## Get in touch
 
 For frontend or full-stack roles and freelance projects, contact me through [LinkedIn](https://linkedin.com/in/artem-lira), [Telegram](https://t.me/Artem_Lira), or [my portfolio](https://artemlira.com).
-
