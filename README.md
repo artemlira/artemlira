@@ -27,9 +27,15 @@ The owner can manage projects, skills, facts, contacts, and social links through
 
 ### BiteMap — community app for anglers
 
-A Ukrainian and English Next.js application for finding waters, planning fishing trips, saving private places, sharing trip reports, and interacting with a community. Includes maps, weather, Firebase authentication and data, moderation tools, and automated GitHub Actions checks.
+A bilingual Next.js app for finding fishing waters, planning trips, saving private places, publishing trip reports, and connecting with a community. The stack includes Next.js, React, TypeScript, Firebase Authentication and Firestore, Cloudinary, Leaflet/OpenStreetMap, and Open-Meteo. GitHub Actions runs lint, TypeScript, build, rules, unit, and browser checks.
 
-The repository is private while the project is in development; source details are available on request.
+- **Repository:** [artemlira/bitemap](https://github.com/artemlira/bitemap)
+- **Showcase:** [BiteMap README](https://github.com/artemlira/bitemap#readme)
+
+<p align="center">
+  <a href="https://github.com/artemlira/bitemap#readme"><img src="https://raw.githubusercontent.com/artemlira/bitemap/main/docs/images/bitemap-home.png" alt="BiteMap home page" width="48%"></a>
+  <a href="https://github.com/artemlira/bitemap#readme"><img src="https://raw.githubusercontent.com/artemlira/bitemap/main/docs/images/bitemap-map.png" alt="BiteMap water catalogue with map filters" width="48%"></a>
+</p>
 
 ### WordPress and client websites
 
